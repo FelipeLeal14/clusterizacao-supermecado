@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Francisco&nbsp;Bustamante-red.svg)](https://www.linkedin.com/in/flsbustamante/)
+[![author](https://img.shields.io/badge/Author-Felipe&nbsp;Leal-red.svg)](https://www.linkedin.com/in/felipe-augusto-leal-37b43b215/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 # Segmentação de clientes de um supermercado
@@ -12,7 +12,7 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 Projeto de clusterização de clientes de um supermecado. Este projeto utiliza a biblioteca Scikit-learn para segmentar clientes de um supermercado, aplicando técnicas de processing, pipeline e PCA (Análise de Componentes Principais).
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/flsbustamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-augusto-leal-37b43b215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 ## Objetivos
